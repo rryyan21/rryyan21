@@ -19,11 +19,22 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,git,figma" />
 </p>
 
 <hr>
 
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
+
+<hr>
 <!--
 **rryyan21/rryyan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
