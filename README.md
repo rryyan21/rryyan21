@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything about React!
 - 📫 How to reach me: ryangpt@umich.edu or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love music!
-- 
+
 <div align="center">
   <img
     width="390"
