@@ -3,7 +3,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/rryyan21/count.svg" alt="Visitor's Count" />
 </div>
 
 
@@ -40,8 +40,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
