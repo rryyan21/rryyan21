@@ -1,31 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/rryyan21/count.svg" alt="Visitor's Count" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ryan--gupta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,git,figma" />
-</p>
-
-<hr>
-
-## ⚡️ Stats
-
-<br>
-
+- 🔭 I’m currently working on a Virtual Advising Project!
+- 🌱 I’m currently learning everything about React!
+- 📫 How to reach me: ryangpt@umich.edu or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
+- ⚡ Fun fact: I love music!
+- 
 <div align="center">
   <img
     width="390"
@@ -43,8 +22,6 @@
     alt="Ryan's Most Used Languages"
   />
 </div>
-
-<hr>
 
 
 <!--
