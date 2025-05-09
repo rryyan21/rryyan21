@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,tailwind,git,sql,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,tailwind,git,figma" />
 </p>
 
 <hr>
