@@ -46,29 +46,7 @@
 
 <hr>
 
-## 🐍 My Contributions
 
-<div align="center">
-  <picture>
-    <!-- dark mode snake -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake-dark.svg"
-    />
-    <!-- light mode snake -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake.svg"
-    />
-    <!-- fallback -->
-    <img
-      alt="github-contribution-snake"
-      src="https://raw.githubusercontent.com/rryyan21/rryyan21/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
-
-<hr>
 <!--
 **rryyan21/rryyan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
