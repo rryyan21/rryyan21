@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 🔭 I’m currently working on a Virtual Advising Project!
+- 🔭 I’m currently working on proofIt a renters best friend!
 - 🌱 I’m currently learning everything about React!
 - 📫 How to reach me: ryangpt@umich.edu or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love music!
