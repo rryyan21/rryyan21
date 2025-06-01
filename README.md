@@ -23,10 +23,6 @@
   />
 </div>
 
-<img
-  width="390"
-  src="https://raw.githubusercontent.com/rryyan21/rryyan21/master/github-metrics.lines.svg"
-/>
 
 
 <!--
