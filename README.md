@@ -23,6 +23,11 @@
   />
 </div>
 
+<img
+  width="390"
+  src="https://raw.githubusercontent.com/rryyan21/rryyan21/master/github-metrics.lines.svg"
+/>
+
 
 <!--
 **rryyan21/rryyan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
