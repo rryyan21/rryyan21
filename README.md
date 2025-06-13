@@ -1,9 +1,9 @@
-## Hi there! 👋
+## 👋 Hi there, I'm Ryan!
 
-- 🔭 I’m currently working on proofIt a renters best friend!
-- 🌱 I’m currently learning everything about React!
-- 📫 How to reach me: ryangpt@umich.edu or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
-- ⚡ Fun fact: I love music!
+- 🔭 Currently building **proofIt** – your rent agreement's best friend!
+- 🌱 Learning all things **React** and modern frontend development
+- 📫 Reach me at **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
+- ⚡ Fun fact: I’m a big fan of music and jamming out while coding 🎧
 
 <div align="center">
   <img
@@ -22,20 +22,3 @@
     alt="Ryan's Most Used Languages"
   />
 </div>
-
-
-
-<!--
-**rryyan21/rryyan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
