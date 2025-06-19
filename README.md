@@ -1,9 +1,9 @@
 ## Hi there, I'm Ryan 👋
 
-- 🔭 I’m currently working on **ProofIt** a renters best friend!
+- 🔭 I’m currently working on **ProofIt** a renters best friend and AgenticFruit, an AI website builder for non technical people!
 - 🌱 I’m currently learning everything about React!
 - 📫 How to reach me: **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
-- ⚡ Fun fact: I love music!
+- ⚡ Fun fact: I love playing guitar!
 
 <div align="center">
   <img
