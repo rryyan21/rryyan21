@@ -1,6 +1,6 @@
 ## Hi there, I'm Ryan 👋
 
-- 🔭 I’m currently working on **ProofIt** a renters best friend!
+- 🔭 I’m currently working on **Literoom** a lightroom clone!
 - 🌱 I’m currently learning everything about React!
 - 📫 How to reach me: **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love playing guitar!
