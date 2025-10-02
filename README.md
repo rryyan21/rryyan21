@@ -1,7 +1,7 @@
 ## Hi there, I'm Ryan 👋
 
-- 🔭 I’m currently working on **Literoom** a lightroom clone!
-- 🌱 I’m currently learning everything about React!
+- 🔭 I’m currently working on **Real Guitar Hero** a guitar hero game that works with real guitars!
+- 🌱 I’m currently learning everything about Flutter!
 - 📫 How to reach me: **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love playing guitar!
 
