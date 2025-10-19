@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything about Flutter!
 - 📫 How to reach me: **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love playing guitar!
+- checkout my [work](https://ryangupta.vercel.app/)
 
 <div align="center">
   <img
