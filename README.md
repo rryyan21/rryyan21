@@ -1,6 +1,6 @@
 ## Hi there, I'm Ryan 👋
 
-- 🔭 I’m currently working on **Codeuel** a code dueling game where you battle bots using code!
+- 🔭 I’m currently working on **Code Duel** a coding game where you battle bots using code!
 - 🌱 I’m currently learning everything about Flutter!
 - 📫 How to reach me: **ryangpt@umich.edu** or [LinkedIn](https://www.linkedin.com/in/ryan--gupta/)
 - ⚡ Fun fact: I love playing guitar!
